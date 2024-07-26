@@ -8,7 +8,10 @@
 </head>
  
 <body>
-    <H1>SRM COLLEGE </H1>
+    <H1><center>SRM COLLEGE</center> </H1>
+    <H3>Vaibhavi</H3>
+    <H4>Sayali</H3>
+
 </body>
  
 </html>
